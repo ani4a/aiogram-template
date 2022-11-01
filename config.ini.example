@@ -1,0 +1,5 @@
+[telegram]
+api_key=12345678:ABCDEF
+
+[db]
+url=sqlite+aiosqlite:///database.db

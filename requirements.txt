@@ -1,0 +1,7 @@
+# bot and config
+aiogram
+configparser
+
+# database
+sqlalchemy
+aiosqlite
