@@ -1,7 +1,6 @@
-# bot and config
-aiogram
-configparser
+# Telegram
+aiogram==2.23.1
 
-# database
-sqlalchemy
-aiosqlite
+# Database
+SQLAlchemy==1.4.43
+aiosqlite==0.17.0
